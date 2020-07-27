@@ -99,7 +99,7 @@ def pred_movies(movie_list):
     return id_store
 
 # !! DO NOT CHANGE THIS FUNCTION SIGNATURE !!
-# You are, however, encouraged to change its content.  
+# You are, however, encouraged to change its content.
 def collab_model(movie_list,top_n=10):
     """Performs Collaborative filtering based upon a list of movies supplied
        by the app user.
